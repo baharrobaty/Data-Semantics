@@ -1,0 +1,34 @@
+@prefix hp: <http://www.semanticweb.org/utente/ontologies/2026/4/untitled-ontology-10#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#################################################
+# New Individuals
+#################################################
+
+hp:James_Potter rdf:type hp:Wizard .
+
+hp:Lily_Potter rdf:type hp:Wizard .
+
+hp:Ginny_Weasley rdf:type hp:Wizard .
+
+hp:Sirius_Black rdf:type hp:Wizard .
+
+#################################################
+# Extracted Relationships
+#################################################
+
+hp:Harry_Potter hp:hasFather hp:James_Potter .
+
+hp:Harry_Potter hp:hasMother hp:Lily_Potter .
+
+hp:Harry_Potter hp:marriedTo hp:Ginny_Weasley .
+
+hp:Harry_Potter hp:hasGodfather hp:Sirius_Black .
+
+#################################################
+# Existing Knowledge Validation
+#################################################
+
+hp:Harry_Potter hp:friendOf hp:Ron_Weasley .
+
+hp:Harry_Potter hp:friendOf hp:Hermione_Granger .

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1784097592333" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="companies-geo.rdfs-owl-L2-2-Robaty%20Shirzad_clean.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1784097592333" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="companies-geo.rdfs-owl-L2-2.owl.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1784097592333" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="Ex2.owl"/>
+    </group>
+</catalog>

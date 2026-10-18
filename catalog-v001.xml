@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1782480529601" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="Exercise/Ex2/companies-geo.rdfs-owl-L2-2-Robaty%20Shirzad_clean.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1782480529601" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="Exercise/Ex2/companies-geo.rdfs-owl-L2-2.owl.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1782480529601" name="duplicate:http://www.inside.disco.unimib.it/ds/test/geo-clean-domain-range" uri="Exercise/Ex2/Ex2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1782480529601" name="http://www.semanticweb.org/utente/ontologies/2026/4/untitled-ontology-10/" uri="Bahare_Partt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1782480529601" name="shadowed:http://www.semanticweb.org/utente/ontologies/2026/4/untitled-ontology-10/" uri="Project/HarryPotter.owl"/>
+    </group>
+</catalog>
